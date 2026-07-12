@@ -43,11 +43,11 @@ Become a Machine Learning Engineer capable of building intelligent, production-r
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="ankitcodes-dev">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="ankitcodes.dev@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
